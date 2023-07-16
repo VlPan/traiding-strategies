@@ -2,7 +2,9 @@
   "name": "@org/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "start": "nx serve traiding-strategies --port 4301"
+  },
   "private": true,
   "dependencies": {
     "@swc/helpers": "~0.5.0",
